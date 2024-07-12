@@ -37,4 +37,4 @@ The application should allow users to add, view, update, and delete tasks.
 
 #### Backend Integration using Nodejs
 
-It store the task data in a json file and fetch that data. when we add a new data in frontend the data will added to backend json file and when it is edited the data in json file get edited.
+It store the task data in a json file and fetch that data. when we add a new data in frontend the data will added to backend json file and when it is edited the data in json file also get edited these datas are fetch from backend to frontend to list the tasks.
