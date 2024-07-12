@@ -1,14 +1,19 @@
 # Task-management-application (Modified)
 Task management application using Reactjs and Nodejs
 
+Clone the backend folder and frontend folder 
 
 ###  Commands for task-management-Frontend to run
+
+##### Make sure that you are in correct directory 
  
 #### `npm i` - To install all dependencies
 
 #### `npm start`- To run 
 
 ### Commands for task-management-Backend to run
+
+##### Make sure that you are in correct directory 
  
 #### `npm i` - To install all dependencies
 
