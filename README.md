@@ -8,7 +8,7 @@ Task management application using Reactjs and Nodejs
 
 #### `npm start`- To run 
 
-### Commands for task-management-Frontend
+### Commands for task-management-Backend to run
  
 #### `npm i` - To install all dependencies
 
